@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#000000'
+    - '#0D5678'
+    - '#000000'
+    - '#18A0E0'
+    - '#88D0F0'
+  brandStrength: 0.757882
+  lightness: 0.372747
+  rhythmicContrast: 0.25
+  saturation: 0.533783
+cta: {}
+layout_spectrum: 0.5432680342059021
+name: rasdecou
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.423423
